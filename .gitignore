@@ -145,6 +145,7 @@ target/
 .ipynb_checkpoints
 
 # IPython
+temp_auto_push.bat
 profile_default/
 ipython_config.py
 
@@ -235,12 +236,6 @@ poetry.toml
 pyrightconfig.json
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
 
 # Local History for Visual Studio Code
 .history/
@@ -299,3 +294,4 @@ test-reports/
 
 # Azure dev tunnels local installation
 DevTunnels/
+temp_interactive_push.bat
